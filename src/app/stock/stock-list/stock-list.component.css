@@ -5,3 +5,12 @@
     align-items: center;
     justify-content: center;
 }
+
+#spancing {
+    margin-left: 30px
+}
+
+#bottom-spancing {
+    margin-left: 10px;
+    padding: 10px;
+}
